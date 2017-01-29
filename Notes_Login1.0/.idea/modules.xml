@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Notes_Login1.0.iml" filepath="$PROJECT_DIR$/Notes_Login1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-beanutils-1.7.0/commons-beanutils-1.7.0.iml" filepath="$PROJECT_DIR$/commons-beanutils-1.7.0/commons-beanutils-1.7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-collections-3.2/commons-collections-3.2.iml" filepath="$PROJECT_DIR$/commons-collections-3.2/commons-collections-3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-lang-2.4/commons-lang-2.4.iml" filepath="$PROJECT_DIR$/commons-lang-2.4/commons-lang-2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-logging-1.1/commons-logging-1.1.iml" filepath="$PROJECT_DIR$/commons-logging-1.1/commons-logging-1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezmorph-1.0.4/ezmorph-1.0.4.iml" filepath="$PROJECT_DIR$/ezmorph-1.0.4/ezmorph-1.0.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-lib-2.2.2-jdk15/json-lib-2.2.2-jdk15.iml" filepath="$PROJECT_DIR$/json-lib-2.2.2-jdk15/json-lib-2.2.2-jdk15.iml" />
+    </modules>
+  </component>
+</project>
